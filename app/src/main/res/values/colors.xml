@@ -3,4 +3,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name ="my_primary">#61DF8B</color>
+    <color name="blonde">#FACE2C</color>
+    <color name="input">#979696</color>
+    <color name="login">#3C3C3D</color>
+    <color name="usandpass">#33363F</color>
+    <color name="clickhere">#4F8BE4</color>
+    <color name="header">#83D78C</color>
+    <color name="srch">#767575</color>
 </resources>

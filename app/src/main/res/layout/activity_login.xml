@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+    <RelativeLayout
+        android:id="@+id/rel1"
+        android:layout_width="match_parent"
+        android:layout_height="250sp"
+        android:background="@drawable/qwep"
+        android:gravity="center"
+        android:layout_alignParentTop="true">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-70sp"
+            android:background="@drawable/craftitle" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="260sp"
+        android:layout_height="170sp"
+        android:layout_marginLeft="75sp"
+        android:layout_marginTop="220sp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/illustration"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="315sp"
+        android:layout_height="300sp"
+        android:layout_marginTop="360sp"
+        android:layout_marginLeft="50sp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Login"
+                android:textSize="24sp"
+                android:textColor="@color/login"
+                android:textStyle="bold"
+                android:layout_marginTop="19sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Email or mobile number"
+                android:textColor="@color/usandpass"
+                android:textSize="16sp"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="34sp"
+                android:layout_marginTop="2sp"
+                android:layout_marginBottom="2sp"
+                android:background="@drawable/log_userborder"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Password"
+                android:textColor="@color/usandpass"
+                android:textSize="16sp"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="34sp"
+                android:layout_marginTop="2sp"
+                android:layout_marginBottom="2sp"
+                android:background="@drawable/log_userborder"/>
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5sp"
+                android:text="Continue"
+                android:textSize="18sp"
+                android:backgroundTint="@color/blonde"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/usandpass"
+                    android:layout_marginTop="25sp"
+                    android:text="New to Craftopia?"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/clickhere"
+                    android:layout_marginTop="25sp"
+                    android:text=" Click Here"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</RelativeLayout>
