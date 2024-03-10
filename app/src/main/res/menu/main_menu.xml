@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Digital Content">
+    </item>
+            <item android:title="E-Readers and Books"
+                android:id="@+id/Ebooks">
+                <menu>
+                    <item android:id="@+id/About"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="About"/>
+                    <item android:id="@+id/item2"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="Item 2"/>
+                </menu>
+            </item>
+            <item android:title="Craftopia Appstore"
+                android:id="@+id/Appstore">
+                <menu>
+                    <item android:id="@+id/tools"
+                        android:title="lol"/>
+                </menu>
+            </item>
+
+    <item android:title="Shop By Categories">
+    </item>
+            <item android:title="Handcrafted Creations">
+                <menu>
+                    <item android:id="@+id/handcraftes"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                    <item android:id="@+id/create"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                </menu>
+            </item>
+            <item android:title="Raw Materials">
+                <menu>
+                    <item android:id="@+id/raw"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                    <item android:id="@+id/mate"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+
+                </menu>
+            </item>
+            <item android:title="Handcracted Tools">
+                <menu>
+                    <item android:id="@+id/cradf"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                    <item android:id="@+id/tls"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                </menu>
+            </item>
+    <item android:title="Programs and Features">
+    </item>
+            <item android:title="Connect and Collaborate">
+                <menu>
+                    <item android:id="@+id/progs"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                    <item android:id="@+id/feature"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                </menu>
+            </item>
+            <item android:title="Event Calendar">
+                <menu>
+                    <item android:id="@+id/even"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                    <item android:id="@+id/calen"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                </menu>
+            </item>
+            <item android:title="Skill Workshops">
+                <menu>
+                    <item android:id="@+id/kil"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                    <item android:id="@+id/work"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                </menu>
+            </item>
+            <item android:title="Community Forums">
+                <menu>
+                    <item android:id="@+id/commu"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                    <item android:id="@+id/forum"
+                        android:icon="@drawable/ic_baseline_account_circle_24"
+                        android:title="lol"/>
+                </menu>
+            </item>
+</menu>

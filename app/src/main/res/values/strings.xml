@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CRAFTOPIA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title"><font color="black" face="Century"><b>Craft</b></font><font color="#FF808076" face="Century"><b><small>opia</small></b></font></string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="order_place"><font color="black"><big><b>Order Placed</b></big></font><small>\nWe have received your order\non 01-Jan-2024</small></string>
+    <string name="order_confirmed"><font color="black"><big><b>Order Confirmed</b></big></font><small>\nWe have confirmed your order\non 03-Jan-2024</small></string>
+    <string name="order_process"><font color="black"><big><b>Order Processed</b></big></font><small>\nWe have preparing your order\non 04-Jan-2024</small></string>
+    <string name="ready_ship"><font color="black"><big><b>Ready to Ship</b></big></font><small>\nYour order is ready for shipping\non 28-Jan-2024</small></string>
+    <string name="out_delivery"><font color="black"><big><b>Out of Delivery</b></big></font><small>\nYour order is Out of Delivery\non 29-Jan-2024</small></string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="userid"><font color="black"><b>Order ID: </b></font><font color="#FF808076">988231245</font></string>
+    <string name="link">By Continuing, you agree to Craftopia’s <a href="https://yourcraftbusiness.com/Your-Craft-Business/craft-sales-policies.htm">Condition of Use and Sale</a>. Please see our <a href="https://www.craftww.com/privacy-policy/">Privacy Notice </a>, our <a href="https://craftcms.com/cookie-notice"> Cookies Notice</a> and our <a href="https://help.goodreads.com/s/article/Goodreads-Interest-Based-Ads-Notice">Interest Based Ads Notice</a>.
+    </string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="regTLink">Already have a Craftopia account?<a href="https://craftopia.online/login"> Click here</a></string>
+</resources>
